@@ -8,7 +8,7 @@ website: http://coreprotect.net
 author: Intelli
 softdepend: [WorldEdit]
 description: >
-             Provides block protection for your server.
+             Unofficial Paper 26.3 compatibility build of CoreProtect 24.1.
 commands:
   co:
     description: Utilize the plugin
