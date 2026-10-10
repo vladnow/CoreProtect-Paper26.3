@@ -1,0 +1,5 @@
+name: PortSmoke
+version: 1.0
+main: porttest.PortSmoke
+api-version: '26.3'
+depend: [CoreProtect, CPVisualizer]
